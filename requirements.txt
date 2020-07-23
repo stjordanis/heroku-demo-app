@@ -1,6 +1,5 @@
 acme==0.31.0
 aiocoap==0.4a1
-appdirs==1.4.3
 apturl==0.5.2
 asn1crypto==0.24.0
 bcrypt==3.1.7
