@@ -1,6 +1,5 @@
 acme==1.1.0
 appdirs==1.4.4
-apturl==0.5.2
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
 black @ git+git://github.com/psf/black@dd2f86ac0a043815821d228b9db036a295be5372
