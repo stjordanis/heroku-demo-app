@@ -3,7 +3,6 @@ appdirs==1.4.4
 bcrypt==3.1.7
 beautifulsoup4==4.8.2
 black @ git+git://github.com/psf/black@dd2f86ac0a043815821d228b9db036a295be5372
-blinker==1.4
 Brlapi==0.7.0
 build==0.3.0
 certbot==0.40.0
